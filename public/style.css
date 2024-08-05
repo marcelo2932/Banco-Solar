@@ -1,0 +1,18 @@
+body {
+    background-color: #dbeefe; 
+}
+.table {
+    background-color: #ffffff; 
+}
+.form-group, .modal-content {
+    background-color: #dbeefe; 
+}
+.btn {
+    margin: 3px;
+}
+.usuarios td {
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 200px; 
+}
